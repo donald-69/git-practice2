@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
 .hero{
     background: url('../Images/safari_2.jpg');
     background-repeat: no-repeat;
@@ -8,3 +11,31 @@
 .social img{
     width: 32px;
 }
+
+
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.big-shoulders-stencil {
+  font-family: "Big Shoulders Stencil", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.lora {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.special-green{
+    color: mediumspringgreen;
+}
+
+/*bootstrapstudio.io*/
+/*designmodo.com*/
